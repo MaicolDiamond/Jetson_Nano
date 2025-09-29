@@ -6,7 +6,7 @@ Repositorio de trabajo con la tarjeta de desarrollo **NVIDIA Jetson Nano**, crea
 
 ## 🧠 ¿Qué es la Jetson Nano?
 
-La Jetson Nano es una computadora de bajo consumo diseñada por NVIDIA, pensada para aplicaciones de inteligencia artificial, visión por computadora, robótica y más. Está equipada con una GPU potente para su tamaño y una serie de pines GPIO para interactuar con el mundo físico.
+La Jetson Nano es una computadora de bajo consumo diseñada por NVIDIA, pensada para aplicaciones de inteligencia artificial, visión por computadora, robótica y más. Está equipada con una GPU potente para su tamaño y una serie de pines GPIO para diferentes aplicaciones.
 
 ---
 
