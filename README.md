@@ -16,19 +16,19 @@ La Jetson Nano es una computadora de bajo consumo diseñada por NVIDIA, pensada 
 
 ## Contenido del repositorio
 
-- [**`Instalación y Configuración Inicial de Jetson Nano`**](docs/modulos/01_instalacion_configuracion.md):
+- [**`Instalación y Configuración Inicial de Jetson Nano`**](docs/modulos/01_instalacion_configuracion/README.md):
 
     Guía paso a paso para la instalación del sistema operativo, configuración inicial de la Jetson Nano y actualización del entorno.
     
-- [**`Tipos de Conexión con Jetson Nano`**](docs/modulos/02_tipos_de_conexion.md)
+- [**`Tipos de Conexión con Jetson Nano`**](docs/modulos/02_tipos_de_conexion/README.md)
     
     Explicación sobre los distintos tipos de conexión posibles (SSH, VNC, terminal serial, etc.), y cómo interactúan el CPU y la GPU en la Jetson Nano.
 
-- [**`Arquitectura y Hardware de Jetson Nano`**](docs/modulos/03_chip_jetson_nano.md)
+- [**`Arquitectura y Hardware de Jetson Nano`**](docs/modulos/03_chip_jetson_nano/README.md)
     
     Descripción del hardware de la Jetson Nano, incluyendo su arquitectura, características técnicas y puertos externos.
 
-- [**`Fundamentos de CUDA en Jetson Nano`**](docs/modulos/04_cuda_fundamentos.md)
+- [**`Fundamentos de CUDA en Jetson Nano`**](docs/modulos/04_cuda_fundamentos/README.md)
 
     Introducción a CUDA, su modelo de programación, ejecución paralela, y conceptos fundamentales como bloques, hilos y warps.
 
@@ -36,7 +36,7 @@ La Jetson Nano es una computadora de bajo consumo diseñada por NVIDIA, pensada 
 
     Directorio con proyectos prácticos, ejemplos de código en CUDA y C++, pruebas de rendimiento y experimentos realizados.
 
-- [**`Recursos Visuales y Diagramas Técnicos`**](docs/imagenes/)
+- [**`Recursos Visuales y Diagramas Técnicos`**](docs/imagenes)
 
     Imágenes de diagramas, conexiones físicas, capturas de pantalla y resultados obtenidos durante las prácticas.
 
